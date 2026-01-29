@@ -14,7 +14,7 @@ git remote add origin <원격지 주소>  -> 소스트리에서 원격 누르는
 
 git pull origin main 
 
-git add -A  -> 소스트리에서 커밋파트에서 파일 위로 올리는 것
+git add -A  -> 소스트리에서 커밋파트에서 파일 위로 올리는 것 / -A  는 전체 다라는 뜻
 
 git commit -, '<커밋 메세지>'
 
